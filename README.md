@@ -4,8 +4,6 @@ Hi 👋 My name is William Leung
 Aspiring Engineer and App developer
 -----------------------------------
 
-To explore my creative lenses I found passion in making website pages but after my internship/shadow at a Hong Kong gaming company, I found interest in building more apps and games for the future.
-
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
 * 🚀  I'm currently working on [Kurata](http://github.com/gwilliamleung/Karuta)
