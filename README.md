@@ -9,7 +9,7 @@ Aspiring Engineer and App developer
 * 🚀  I'm currently working on [Kurata](http://github.com/gwilliamleung/Karuta)
 * 🧠  I'm learning JavaScript, React JS and React Native
 * 🤝  I'm open to collaborating on interesting projects with huge communities in mind
-* ⚡  Waiting for the day coding gets boring according to my friends
+* ⚡  Blitzing through it everyday
 
 ### Skills
 
