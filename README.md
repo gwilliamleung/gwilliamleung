@@ -7,7 +7,8 @@ Aspiring Engineer and App developer
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
 * 🚀  I'm currently working on [GachaTasks](https://github.com/gwilliamleung/GachaTasks)
-* 🧠  I'm learning JavaScript, React JS and React Native
+* 🧠  I'm learning JavaScript, React JS and React Native, smaller things include FireBase, Tailwind and NodeJS
+* 🔄  I make it my mission to employ whatever I'm learning to my projects to gain the best immersion
 * 🤝  I'm open to collaborating on projects with huge communities in mind
 * ⚡  Blitzing through it everyday
 
