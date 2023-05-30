@@ -6,9 +6,8 @@ Aspiring Engineer and App developer
 
 * 🌍  I'm based in New York City, willing to relocate
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
-* 🚀  I'm currently working on "In progress"
-* 🧠  I'm learning JavaScript, React JS and React Native, and smaller things such as FireBase and Tailwind
-* 🔄  I make it my mission to employ whatever I'm learning to my projects to gain the best immersion
+* 🚀  I'm currently working on MeBot
+* 🧠  I'm learning how to apply OpenAI to my new projects and previous projects
 * 🤝  I'm open to collaborating on projects with huge communities in mind
 * ⚡  Blitzing through it everyday
 
