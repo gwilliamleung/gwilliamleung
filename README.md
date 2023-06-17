@@ -5,7 +5,7 @@ Aspiring Engineer and App developer
 -----------------------------------
 * 🌍  I'm based in New York City, willing to relocate
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
-* 🚀  I'm currently working on ChatTranslate
+* 🚀  I'm currently working on [ChatTranslate](https://github.com/gwilliamleung/chattranslate)
 * 🧠  I'm currently learning how to apply OpenAI to my new projects and previous projects
 
 ### Skills
