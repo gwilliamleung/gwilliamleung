@@ -3,13 +3,10 @@ Hi 👋 My name is William Leung
 
 Aspiring Engineer and App developer
 -----------------------------------
-
 * 🌍  I'm based in New York City, willing to relocate
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
-* 🚀  I'm currently working on MeBot
-* 🧠  I'm learning how to apply OpenAI to my new projects and previous projects
-* 🤝  I'm open to collaborating on projects with huge communities in mind
-* ⚡  Blitzing through it everyday
+* 🚀  I'm currently working on ChatTranslate
+* 🧠  I'm currently learning how to apply OpenAI to my new projects and previous projects
 
 ### Skills
 
@@ -28,6 +25,6 @@ Aspiring Engineer and App developer
 
 <p align="left"> <a href="https://www.github.com/gwilliamleung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/william-leung-596090178/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gwilliamleung)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwilliamleung&show_icons=true&theme=transparent)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=gwilliamleung)  
