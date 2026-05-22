@@ -1,12 +1,9 @@
 Hi 👋 My name is William Leung
 ==============================
-
-Aspiring Engineer and App developer
------------------------------------
 * 🌍  I'm based in New York City, willing to relocate
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
 * 🚀  I'm currently working on [Lotus](https://github.com/gwilliamleung/Lotus-1)
-* 🧠  I'm currently learning how to apply OpenAI to my new projects and previous projects
+* 🧠  I'm currently solving problems with AI
 
 ### Skills
 
