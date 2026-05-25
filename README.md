@@ -2,7 +2,7 @@ Hi 👋 My name is William Leung
 ==============================
 * 🌍  I'm based in New York City, willing to relocate
 * ✉️  You can contact me at [gwilliamleung@gmail.com](mailto:gwilliamleung@gmail.com)
-* 🚀  I'm currently working on [Lotus](https://github.com/gwilliamleung/Lotus-1)
+* 🚀  I'm currently working on [Learning Language with Nodes](https://github.com/gwilliamleung/Lotus-1)
 * 🧠  I'm currently solving problems with AI
 
 ### Skills
